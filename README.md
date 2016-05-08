@@ -44,6 +44,7 @@ JSP技术使用Java编程语言编写类XML的tags和scriptlets，来封装产�
 Java Servlet是JSP的技术基础，而且大型的Web应用程序的开发需要Java Servlet和JSP配合才能完成。JSP具备了Java技术的简单易用，完全的面向对象，具有平台无关性且安全可靠，主要面向因特网的所有特点。
 
 JSP新手教程 http://www.runoob.com/jsp/jsp-tutorial.html
+
 |JSP页面元素   | 说明               | 标签语法           |
 |--------------| ------             | ---------          |
 | 声明         | 声明变量和定义方法 | <%! Java声明 %> |
